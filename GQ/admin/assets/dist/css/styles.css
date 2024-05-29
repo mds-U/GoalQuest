@@ -1,0 +1,89 @@
+.row1, .bg {
+    background-color: #1025A1;
+}
+
+body {
+    background-color: #F4F6FC;
+}
+
+.nav-link, .navbar-brand {
+    color: #F4F6FC;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+}
+
+.container {
+    font-family: "Poppins", sans-serif;
+}
+
+.card-header {
+    padding-top: 20px;
+}
+
+.form-group-link {
+    text-decoration: none;
+    color: #1025A1;
+}
+
+.btn {
+    width: 100%;
+    background-color: #1025A1;
+    color: white;
+}
+
+.btn:hover {
+    background-color: black;
+    color: white;
+}
+
+.title {
+    text-align: left;
+}
+
+.h2-title {
+    font-size: 49px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.h1-title {
+    font-size: 69px;
+    color: #1025A1;
+    font-weight: bolder;
+    margin-bottom: 0;
+}
+
+.sub-title {
+    font-size: 18px;
+    font-style: italic;
+    margin-bottom: 0;
+}
+
+.P-content {
+    padding-top: 25px;
+    padding-bottom: 0px;
+    padding-left: 0;
+    text-align: left;
+    font-size: 24px;
+}
+
+.Reg-container {
+    padding: 0px 10px 10px 0px;
+}
+
+.span-Register {
+    background-color: #1025A1;
+    color: #F4F6FC;
+    padding: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 16px;
+}
+
+.Reg-container:hover {
+    cursor: pointer;
+}
+
+.img-fluid {
+    padding-left: 40px;
+}
